@@ -1,1 +1,1 @@
-# docs
+Solaster is a blockchain development platform focused on interoperability standards for healthcare, using smart contracts on the GoChain network. Solaster’s GO-70 is a blockchain standard modeled after the HL7-FHIR framework, which will improve innovation on behalf of patients, providers and other key data participants across the healthcare ecosystem.  GO-70 enables developers to create Dapps  which can be easily interconnected and can securely exchange of data and value. 
